@@ -3,6 +3,7 @@ package essai2;
 public class Test2 {
 	private String test2;
      private int number;
+     String str;
 
 	public String getTest2() {
 		return test2;
