@@ -7,8 +7,8 @@ public class Test {
 		return test1;
 	}
 
-	public void setTest(String test) {
-		this.test1 = test;
+	public void setTest(String testt) {
+		this.test1 = testt;
 	}
 
 	@Override
