@@ -11,4 +11,10 @@ public class Test {
 		this.test = test;
 	}
 
+	@Override
+	public String toString() {
+		return "Test [test=" + test + "]";
+	}
+	
+
 }
